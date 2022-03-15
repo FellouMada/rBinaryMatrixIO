@@ -1,0 +1,27 @@
+Package: rBinaryMatrixIO
+Title: Mini package to read and write integer matrices to binary files in queryable form
+Version: 1.0.0
+Authors@R: 
+    person(given = "Nicholas",
+           family = "Williams",
+           role = c("aut", "cre"),
+           email = "nw14@sanger.ac.uk",
+           comment = c(ORCID = "https://orcid.org/0000-0003-3989-9167"))
+    person(given = "Karim",
+           family = "Mane",
+           role = c("aut", "cre"),
+           email = "km28@sanger.ac.uk")
+Description: Mini package to read and write integer matrices to binary files in queryable form
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown
+VignetteBuilder:
+    knitr
+Config/testthat/edition: 3
+
