@@ -1,2 +1,2 @@
 # rBinaryMatrixIO
-read, write binary file
+read, write integer matrix from/to binary file
