@@ -1,2 +1,2 @@
 # rBinaryMatrixIO
-read, write integer matrix from/to binary file
+Mini package to read and write integer matrices to binary files in queryable form
